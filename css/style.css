@@ -59,6 +59,7 @@ main {
   border-radius: 20px;
   box-shadow: 0 0 25px hsl(0, 0%, 85%);
   font-family: "Outfit", sans-serif;
+  text-align: center;
 }
 main img {
   border-radius: 10px;
