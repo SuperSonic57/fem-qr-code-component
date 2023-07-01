@@ -45,4 +45,8 @@ body {
 img, picture, svg {
   max-width: 100%;
   display: block;
+}
+
+main {
+  max-width: 375px;
 }/*# sourceMappingURL=style.css.map */
