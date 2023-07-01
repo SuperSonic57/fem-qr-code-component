@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+@import "https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap";
 body {
   background: hsl(212, 45%, 89%);
 }
@@ -58,6 +58,7 @@ main {
   padding: 15px;
   border-radius: 20px;
   box-shadow: 0 0 25px hsl(0, 0%, 85%);
+  font-family: "Outfit", sans-serif;
 }
 main img {
   border-radius: 10px;
