@@ -63,4 +63,10 @@ main {
 }
 main img {
   border-radius: 10px;
+}
+main h1 {
+  color: hsl(218, 44%, 22%);
+}
+main p {
+  color: hsl(220, 15%, 55%);
 }/*# sourceMappingURL=style.css.map */
