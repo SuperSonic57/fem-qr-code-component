@@ -69,4 +69,6 @@ main h1 {
 }
 main p {
   color: hsl(220, 15%, 55%);
+  font-size: 19px;
+  padding: 15px;
 }/*# sourceMappingURL=style.css.map */
