@@ -54,4 +54,10 @@ body {
 
 main {
   max-width: 375px;
+  background: hsl(0, 0%, 100%);
+  padding: 15px;
+  border-radius: 20px;
+}
+main img {
+  border-radius: 10px;
 }/*# sourceMappingURL=style.css.map */
