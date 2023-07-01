@@ -66,6 +66,9 @@ main img {
 }
 main h1 {
   color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  font-size: 27px;
+  padding-top: 25px;
 }
 main p {
   color: hsl(220, 15%, 55%);
